@@ -1,0 +1,3 @@
+jaqueta,250
+tenis,50
+camiseta,239

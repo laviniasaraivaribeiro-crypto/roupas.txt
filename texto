@@ -1,0 +1,9 @@
+LOJA DE ROUPAS
+
+Sistema de cadastro e consulta de roupas.
+
+O sistema permite:
+- Cadastrar roupas.
+- Armazenar os preços.
+- Mostrar todas as roupas.
+- Encontrar a roupa mais cara.
